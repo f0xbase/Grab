@@ -1,4 +1,7 @@
 # Grabber CheatPekalongan.com
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Windows-blue.svg)]()
 ![](https://i.ibb.co/Gsw86YN/Grabpkl.png)
 # [ Penggunaan di Linux ]
 ```
